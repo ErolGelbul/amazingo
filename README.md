@@ -830,6 +830,6 @@ If you would like to add any extra features to the optimisation simulation, feel
 
 Erol Gelbul - [Website](http://www.erolgelbul.com)
 
-Project Link: [Howpy](https://github.com/ErolGelbul/howpy)
+Project Link: [Amazingo](https://github.com/ErolGelbul/amazingo)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
