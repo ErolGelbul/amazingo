@@ -1,0 +1,14 @@
+venv/
+db.sqlite3
+.env
+.vscode/
+htmlcov/
+.coverage
+__pycache__
+.pytest_cache
+**__pycache__/
+drfecommerce/.coverage
+.pytest_cache
+_full/
+schema.yml
+.vscode
